@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image App</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="submit_button">submit</string>
+    <string name="form_empty">Please fill in username and password!</string>
+    <string name="starting_image_download">Downloading image</string>
+    <string name="server_not_reached">Couldn\'t reach server. Please check your connection.</string>
+    <string name="communication_error">Invalid server response</string>
+</resources>
